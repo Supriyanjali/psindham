@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-google-oauth2": "^1.5.8",
+    "vuex": "^3.6.2"
+  }
+}
